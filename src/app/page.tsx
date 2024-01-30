@@ -1,5 +1,5 @@
 export default function Home() {
-  const currentYear = new Date().getFullYear()
+  const currentYear = new Date().getFullYear();
   return (
     <main>
       <div className="max-w-screen-2xl mx-auto bg-white">
